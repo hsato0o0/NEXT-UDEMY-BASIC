@@ -1,4 +1,4 @@
-import ClientComponent from '@/_components/ClientComponent';
+import ClientComponent from '@/components/ClientComponent';
 import Link from 'next/link';
 
 export default function ServerComponent() {
